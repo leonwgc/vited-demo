@@ -19,6 +19,8 @@
   },
   "devDependencies": {
     "postcss-px-to-viewport": "^1.1.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "sass": "^1.34.0",
+    "less": "^4.1.1"
   }
 }
