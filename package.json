@@ -20,6 +20,6 @@
   "devDependencies": {
     "postcss-px-to-viewport": "^1.1.1",
     "rimraf": "^3.0.2",
-    "vited": "^2.1.3"
+    "vited": "^2.1.4"
   }
 }

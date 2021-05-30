@@ -3723,10 +3723,10 @@ vite@^2.3.0:
   optionalDependencies:
     fsevents "~2.3.1"
 
-vited@^2.1.3:
-  version "2.1.3"
-  resolved "https://registry.npmjs.org/vited/-/vited-2.1.3.tgz#ef57d12dc2177b91cca18350d13ca40fd5387a34"
-  integrity sha512-+PWLS3WuJW+XkFRVuiy/uP9cL9NdAn3o+6ZSPUo7GHk7ePrAwfB1QIlElwmAbhm+xzsP7BsGspVRid0Y+iXLqg==
+vited@^2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npmjs.org/vited/-/vited-2.1.4.tgz#4cc7620e5a6ed6c570690c7da06bcf233222294b"
+  integrity sha512-dJYBxA8+0Y9djrpLZl6SvqPwHEDKKWhDqjIFQZ9uALc9UPBa5ZMI8n/Ne/bR1fKogr4fdvSzK7mrxdTPUwLkTQ==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/core" "^7.8.7"
