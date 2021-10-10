@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './h5/App';
+import App from './pc/App';
 
 ReactDOM.render(
   <div>
