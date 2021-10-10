@@ -1,12 +1,12 @@
 {
-  "name": "packx-demo",
+  "name": "vited-demo",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "clear": "rimraf ./dist & clear",
     "start": "vited start",
     "build": "vited build",
-    "dev": "node ./vited.js "
+    "dev": "node ./dev.js "
   },
   "author": "",
   "license": "ISC",
@@ -23,6 +23,6 @@
     "postcss-px-to-viewport": "^1.1.1",
     "rimraf": "^3.0.2",
     "sass": "^1.42.1",
-    "vited": "2.2.2"
+    "vited": "2.2.5"
   }
 }

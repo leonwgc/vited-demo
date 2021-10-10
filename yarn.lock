@@ -1957,21 +1957,6 @@ json5@^2.1.2:
   dependencies:
     minimist "^1.2.5"
 
-less@^3.13.0:
-  version "3.13.1"
-  resolved "https://registry.npmmirror.com/less/download/less-3.13.1.tgz#0ebc91d2a0e9c0c6735b83d496b0ab0583077909"
-  dependencies:
-    copy-anything "^2.0.1"
-    tslib "^1.10.0"
-  optionalDependencies:
-    errno "^0.1.1"
-    graceful-fs "^4.1.2"
-    image-size "~0.5.0"
-    make-dir "^2.1.0"
-    mime "^1.4.1"
-    native-request "^1.0.5"
-    source-map "~0.6.0"
-
 less@^4.1.2:
   version "4.1.2"
   resolved "https://registry.npmmirror.com/less/download/less-4.1.2.tgz#6099ee584999750c2624b65f80145f8674e4b4b0"
@@ -2079,10 +2064,6 @@ nanoid@^3.1.23:
 nanoid@^3.1.28:
   version "3.1.29"
   resolved "https://registry.npmmirror.com/nanoid/download/nanoid-3.1.29.tgz?cache=0&sync_timestamp=1633468509349&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2Fdownload%2Fnanoid-3.1.29.tgz#214fb2d7a33e1a5bef4757b779dfaeb6a4e5aeb4"
-
-native-request@^1.0.5:
-  version "1.1.0"
-  resolved "https://registry.nlark.com/native-request/download/native-request-1.1.0.tgz?cache=0&sync_timestamp=1630539980163&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fnative-request%2Fdownload%2Fnative-request-1.1.0.tgz#acdb30fe2eefa3e1bc8c54b3a6852e9c5c0d3cb0"
 
 needle@^2.5.2:
   version "2.9.1"
@@ -2868,10 +2849,6 @@ toggle-selection@^1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/toggle-selection/-/toggle-selection-1.0.6.tgz#6e45b1263f2017fa0acc7d89d78b15b8bf77da32"
 
-tslib@^1.10.0:
-  version "1.14.1"
-  resolved "https://registry.npm.taobao.org/tslib/download/tslib-1.14.1.tgz?cache=0&sync_timestamp=1617647331485&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftslib%2Fdownload%2Ftslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
-
 tslib@^2.0.3:
   version "2.2.0"
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
@@ -2932,9 +2909,9 @@ vite@^2.6.5:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vited@2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/vited/-/vited-2.2.2.tgz#b117704b6545c49acef1433de7d9f57e17e76e72"
+vited@2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/vited/-/vited-2.2.5.tgz#9637a4df9858083b3ff51592db7c37d8a27c0ca4"
   dependencies:
     "@babel/cli" "^7.15.7"
     "@babel/core" "^7.15.8"
@@ -2956,7 +2933,6 @@ vited@2.2.2:
     execa "^5.1.1"
     glob "^7.2.0"
     import-local "^3.0.3"
-    less "^3.13.0"
     mkdirp "^1.0.4"
     vite "^2.6.5"
     vite-plugin-style-import "^1.2.1"
