@@ -18,8 +18,10 @@
     "zarm-form-render": "^1.1.2"
   },
   "devDependencies": {
+    "less": "^4.1.2",
     "postcss-px-to-viewport": "^1.1.1",
     "rimraf": "^3.0.2",
-    "vited": "^2.1.4"
+    "sass": "^1.42.1",
+    "vited": "2.2.0"
   }
 }

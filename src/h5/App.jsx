@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import FormRenderer from 'zarm-form-render';
 import { Input, Cell, Radio, Select, DateSelect, Button } from 'zarm';
+import 'zarm/dist/zarm.css';
 import './App.less';
 
 export default function App() {
