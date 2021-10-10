@@ -5,7 +5,8 @@
   "scripts": {
     "clear": "rimraf ./dist & clear",
     "start": "vited start",
-    "build": "vited build"
+    "build": "vited build",
+    "dev": "node ./vited.js "
   },
   "author": "",
   "license": "ISC",
